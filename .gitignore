@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local database
+chroma_db/
+
+# Environment variables
+.env
+
+# Misc
+.DS_Store

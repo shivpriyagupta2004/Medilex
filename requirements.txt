@@ -1,0 +1,25 @@
+# Core LangChain stack (stable)
+langchain==0.2.16
+langchain-community==0.2.6
+langchain-text-splitters==0.2.2
+
+# Embeddings + Vector DB
+sentence-transformers==2.2.2
+chromadb==0.5.5
+
+# OCR and image handling
+pillow==10.4.0
+pytesseract==0.3.10
+
+# Environment variables
+python-dotenv==1.0.1
+
+# UI framework
+streamlit==1.37.1
+
+# Translation
+googletrans==4.0.0-rc1
+
+# Optional: NLP / NER
+spacy==3.7.4
+scispacy==0.5.4
